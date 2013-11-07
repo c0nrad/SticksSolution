@@ -45,7 +45,7 @@ Since player two then has to cross of the last stick, he/she loses the game. Wha
 Game Solution
 -------------
 
-The other day I got beat by a first timer. No names will be mentioned, but it was embarassing. Because of this I decided to figure out the solution to the game, meaning if both people played perfect games, who will win?
+The other day I got beat by a first timer. No names will be mentioned (cough cough Alyssa), but it was embarassing. Because of this I decided to figure out the solution to the game, meaning if both people played perfect games, who will win?
 
 Well it turns out the first person wins every time, if they play a perfect game. Here are the results:
 
